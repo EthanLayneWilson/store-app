@@ -1,10 +1,10 @@
 const CACHE_NAME = "store-cache-v1";
 const URLS_TO_CACHE = [
-  "/",
-  "/index.html",
-  "/styles.css",
-  "/script.js",
-  "/manifest.json"
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./script.js",
+  "./manifest.json"
 ];
 
 self.addEventListener("install", (event) => {
