@@ -3,7 +3,6 @@ const URLS_TO_CACHE = [
   "./",
   "./index.html",
   "./styles.css",
-  "./script.js",
   "./manifest.json"
 ];
 
