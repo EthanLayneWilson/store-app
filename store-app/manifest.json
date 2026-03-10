@@ -1,7 +1,7 @@
 {
   "name": "My Store",
   "short_name": "Store",
-  "start_url": "/",
+  "start_url": "/store-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#111111",
